@@ -1,0 +1,7 @@
+risk_behavior_group,default_payment_next_month,total_customers
+No Delays (All Months),0,17597
+No Delays (All Months),1,2334
+Old Delays Only (4-6 Months Ago),0,1263
+Old Delays Only (4-6 Months Ago),1,366
+Recent Delays (0-2 Months Ago),0,4504
+Recent Delays (0-2 Months Ago),1,3936
