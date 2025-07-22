@@ -15,7 +15,7 @@ Grouped 30,000 customers by age buckets and gender to find default trends.
 - Default counts are high for both males and females aged 25–40, especially **females 31–40**.
 
 📄 [Query](queries/defaulters_by_age_gender.sql)  
-📊 [Output](results/defaulters_by_age_gender.csv)
+📊 [Output](output/defaulters_by_age_gender.csv)
 
 ---
 
@@ -30,7 +30,7 @@ Classified users into:
 > Even customers who had **no recent delays** still defaulted — suggesting **past payment history matters**, not just the latest month.
 
 📄 [Query](queries/defaulters_based_on_payments_dues.sql)  
-📊 [Output](results/defaulters_based_on_payments_dues.csv)
+📊 [Output](output/defaulters_based_on_payments_dues.csv)
 
 ---
 
@@ -42,7 +42,7 @@ Grouped customers with `default_payment_next_month = 0` by education level and g
 > Most trusted segment: **university-educated females**, followed by **graduate school females**. Males show similar but slightly lower non-default counts.
 
 📄 [Query](queries/defaulters_based_on_education_gender.sql)  
-📊 [Output](results/defaulters_based_on_education_gender.csv)
+📊 [Output](output/defaulters_based_on_education_gender.csv)
 
 ---
 
