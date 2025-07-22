@@ -64,7 +64,3 @@ This project demonstrates:
 
 ---
 
-## 📌 Author
-
-👩‍💻 Rishitha Korrapati  
-📬 [LinkedIn](https://www.linkedin.com/in/rishitha-korrapati-09a579205)
