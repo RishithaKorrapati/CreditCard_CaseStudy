@@ -14,8 +14,8 @@ Grouped 30,000 customers by age buckets and gender to find default trends.
 - Most customers fall into the **25–40** age range.  
 - Default counts are high for both males and females aged 25–40, especially **females 31–40**.
 
-📄 [Query](queries/default_rate_by_age_gender.sql)  
-📊 [Output](results/default_rate_table.csv)
+📄 [Query](queries/defaulters_by_age_gender.sql)  
+📊 [Output](results/defaulters_by_age_gender.csv)
 
 ---
 
