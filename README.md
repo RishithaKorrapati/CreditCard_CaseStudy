@@ -67,4 +67,4 @@ This project demonstrates:
 ## 📌 Author
 
 👩‍💻 Rishitha Korrapati  
-📬 [LinkedIn](https://www.linkedin.com/in/rishitha-korrapati-09a579205) | 📂 [More Projects](https://github.com/your-username)
+📬 [LinkedIn](https://www.linkedin.com/in/rishitha-korrapati-09a579205)
